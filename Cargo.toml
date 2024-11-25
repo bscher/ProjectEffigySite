@@ -1,7 +1,7 @@
 [package]
-name = "yew-wasm-pack-template"
-version = "0.2.0"
-authors = ["Yew Maintainers <maintainers@yew.rs"]
+name = "project_effigy_site"
+version = "0.0.1"
+authors = ["Blake Scherschel <blake.scherschel@gmail.com"]
 edition = "2018"
 
 [lib]
